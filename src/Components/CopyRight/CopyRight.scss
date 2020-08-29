@@ -1,0 +1,25 @@
+.copy-right {
+  border-top: 1px solid #f0f0f0;
+  padding: 1rem 0;
+  .copy-right-content {
+    grid-column: 2/-2;
+    display: flex;
+    justify-content: space-between;
+  }
+  .social {
+    display: flex;
+    li {
+      font-size: 15px;
+      margin-right: 1rem;
+      color: #00052e;
+
+      &:hover {
+        color: #f57224;
+      }
+    }
+  }
+
+  p {
+    font-size: 13px;
+  }
+}

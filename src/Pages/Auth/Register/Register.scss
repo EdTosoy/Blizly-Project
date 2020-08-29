@@ -1,0 +1,82 @@
+.register {
+  background-color: #f0f0f0;
+  display: grid;
+  place-content: center;
+  padding: 5rem 0;
+}
+
+.register-content {
+  a {
+    color: #139eb9;
+  }
+  .text {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    h2 {
+      font-size: 1.3em;
+      font-weight: 100;
+      color: #00052e;
+    }
+    p {
+      font-size: 0.9em;
+      color: gray;
+    }
+  }
+
+  form {
+    background-color: white;
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 2rem;
+    width: 800px;
+    justify-content: space-between;
+
+    .left {
+      .row {
+        margin-bottom: 2rem;
+      }
+      label {
+        display: block;
+        margin-bottom: 5px;
+      }
+      input {
+        font-size: 1rem;
+        padding: 8px;
+        width: 100%;
+      }
+      p {
+        text-align: right;
+      }
+    }
+
+    .right {
+      margin-top: 1.5rem;
+      p {
+        margin: 0.8rem 0;
+        color: gray;
+      }
+      .agreement {
+        font-size: 0.9rem;
+      }
+
+      .facebook-btn,
+      .google-btn {
+        width: 100%;
+        padding: 8px;
+        font-size: 1.1rem;
+        margin-bottom: 1rem;
+        color: white;
+      }
+      .facebook-btn {
+        background-color: #3b5998;
+      }
+      .google-btn {
+        background-color: #d34836;
+      }
+    }
+  }
+}

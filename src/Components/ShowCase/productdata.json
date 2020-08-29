@@ -1,0 +1,501 @@
+{
+  "clothings": [
+    {
+      "id": 1,
+      "name": "Marinio Windrunner Padded Jacket",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F1.jpg?alt=media&token=3a1ddd7c-6ab5-40cc-8b5d-b87706e6663d",
+      "price": "120",
+      "category": "clothing"
+    },
+    {
+      "id": 2,
+      "name": "adidas originals ripstop tracktop",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F2.jpg?alt=media&token=a2ddcecf-836c-4f0b-aa20-f0f47ca5a87c",
+      "price": "120",
+      "category": "clothing"
+    },
+    {
+      "id": 3,
+      "name": "Bd Must Haves Climalite Training Men's Polo Shirt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F3.jpg?alt=media&token=bd616e52-9f73-4a5e-bb58-239c255a4b95",
+      "price": "40",
+      "category": "clothing"
+    },
+    {
+      "id": 4,
+      "name": "Short Sleeve Jersey T-Shirt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F4.jpg?alt=media&token=a9baf53a-0e9f-4a67-96d5-ffa2e40ab25d",
+      "price": "100",
+      "category": "clothing"
+    },
+    {
+      "id": 5,
+      "name": "adidas freelift chill",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F5.jpg?alt=media&token=3e67fc6c-5bf9-4c42-85da-5863983a18da",
+      "price": "27",
+      "category": "clothing"
+    },
+    {
+      "id": 6,
+      "name": "hamburg t-shirt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F6.jpg?alt=media&token=8fedcb32-7137-44bb-bfe8-c98d030a4a9a",
+      "price": "43",
+      "category": "clothing"
+    },
+    {
+      "id": 7,
+      "name": "Nike Rise 365 Future Fast Short Sleeve Top",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F7.jpg?alt=media&token=184b764b-3dc2-41b6-be09-b807a936c8da",
+      "price": "40",
+      "category": "clothing"
+    },
+    {
+      "id": 8,
+      "name": "Nike Sportswear NSW Men's Knit Tank Top",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F8.jpg?alt=media&token=d6e7fe5c-3e06-4f96-a0a0-b188ba56bdfe",
+      "price": "50",
+      "category": "clothing"
+    },
+    {
+      "id": 9,
+      "name": "Marinio Windrunner Jacket - Ellesse Heritage",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F9.jpg?alt=media&token=321b3b13-85ed-4554-a85b-077c75dda590",
+      "price": "75",
+      "category": "clothing"
+    },
+    {
+      "id": 10,
+      "name": "Streaky Collar Shirt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F10.jpg?alt=media&token=e36f603d-3102-4ed2-bbb3-599bb8be7088",
+      "price": "13",
+      "category": "clothing"
+    },
+    {
+      "id": 11,
+      "name": "Hooded Parka",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F11.jpg?alt=media&token=cef4cc70-dd0b-41f8-898a-f8ec86ed0897",
+      "price": "30",
+      "category": "clothing"
+    },
+    {
+      "id": 12,
+      "name": "Hooded Over Shirt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F12.jpg?alt=media&token=f15f57ea-b9b4-46da-bb09-a6e3e40193da",
+      "price": "13",
+      "category": "clothing"
+    },
+
+    {
+      "id": 13,
+      "name": "Iconic Tech Logo Blocking T-Shirt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F13.jpg?alt=media&token=90e11bb4-e4d2-4903-8bb2-7acc86f249f5",
+      "price": "40",
+      "category": "clothing"
+    },
+    {
+      "id": 14,
+      "name": "Crew Neck Sweatshirt With Logo All-Over Print",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F14.jpg?alt=media&token=4baa56c8-e4ae-4113-8c75-3373a343cf0f",
+      "price": "55",
+      "category": "clothing"
+    },
+    {
+      "id": 15,
+      "name": "adidas originals nutasca sweatshirt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F15.jpg?alt=media&token=dc60b3c1-fd89-4539-a226-13fd558bc479",
+      "price": "46",
+      "category": "clothing"
+    },
+    {
+      "id": 16,
+      "name": "Basic Knit Blazer",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F16.jpg?alt=media&token=c4233593-86d8-4449-aca0-58b0c562915e",
+      "price": "23",
+      "category": "clothing"
+    },
+    {
+      "id": 17,
+      "name": "LS Hooded Graphic Tee",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F17.jpg?alt=media&token=284da9aa-7a17-474e-9dd4-b2e9b36a4a14",
+      "price": "16",
+      "category": "clothing"
+    },
+    {
+      "id": 18,
+      "name": "Oversized Champion Script Hoodie",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F18.jpg?alt=media&token=e4436593-e9ca-4bba-8b66-ed7c43c8019a",
+      "price": "82",
+      "category": "clothing"
+    },
+    {
+      "id": 19,
+      "name": "Ivy Wordmark Tee",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/clothing%2F19.jpg?alt=media&token=11a656ee-2b14-4cfc-bd23-7058b5517bf7",
+      "price": "20",
+      "category": "clothing"
+    }
+  ],
+  "bags": [
+    {
+      "id": 1,
+      "name": "Settlement NBA Superfan Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F1.jpg?alt=media&token=01a2cdc6-95b0-4a8d-ba15-63b3ef23b3d0",
+      "price": "90"
+    },
+    {
+      "id": 2,
+      "name": "Settlement Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F2.jpg?alt=media&token=cf9200d0-d455-4dc6-b828-784da7869178",
+      "price": "84"
+    },
+    {
+      "id": 3,
+      "name": "Retreat Mid Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F3.jpg?alt=media&token=a1e961ca-8bc1-47fd-96b6-191feb5ed8cb",
+      "price": "85"
+    },
+    {
+      "id": 4,
+      "name": "Huntington Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F4.jpg?alt=media&token=06d94020-7f78-4616-bbdc-b7b572e18352",
+      "price": "69"
+    },
+    {
+      "id": 5,
+      "name": "Civic Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F5.jpg?alt=media&token=8fd2dc93-80f1-42a8-bcee-271d4f5d47a8",
+      "price": "69"
+    },
+    {
+      "id": 6,
+      "name": "Anti-Theft Metro Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F6.jpg?alt=media&token=f6db5a6d-b3ee-4ff7-b0cd-db4e5a3e93ef",
+      "price": "88"
+    },
+    {
+      "id": 7,
+      "name": "Water Resistant Polyester Business and Laptop Travel Backpack Bag",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F7.jpg?alt=media&token=a0e6233c-d7c3-4476-8a6c-3d7402f61a15",
+      "price": "29"
+    },
+    {
+      "id": 8,
+      "name": "Bobby Hero Regular",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F8.jpg?alt=media&token=0c2bce3d-c7a0-4075-a475-67b93d08f07e",
+      "price": "120"
+    },
+    {
+      "id": 9,
+      "name": "Bobby Hero Regular",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F9.jpg?alt=media&token=2237ea7d-a1dd-47c9-9ca0-873c085f940c",
+      "price": "120"
+    },
+    {
+      "id": 10,
+      "name": "Swap Out Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F10.jpg?alt=media&token=f54f56ab-6118-40b4-9ac9-7ca6a19cf6d6",
+      "price": "43"
+    },
+    {
+      "id": 11,
+      "name": "Little America Mid Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F11.jpg?alt=media&token=516033ec-8b75-4a27-bf3b-ffb45e03238c",
+      "price": "100"
+    },
+    {
+      "id": 12,
+      "name": "Bobby Bizz",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F12.jpg?alt=media&token=f324586a-4743-4728-bc2c-ba084f18b691",
+      "price": "123"
+    },
+    {
+      "id": 13,
+      "name": "Nike Brasilia Medium Training Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F13.jpg?alt=media&token=79eac5e6-5e81-4865-ad8f-bcc644ded2a7",
+      "price": "27"
+    },
+    {
+      "id": 14,
+      "name": "5348 Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F14.jpg?alt=media&token=0f64c248-60ee-4c69-b0ef-a0444c3a37bc",
+      "price": "25"
+    },
+    {
+      "id": 15,
+      "name": "5052 Backpack Stroller",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F15.jpg?alt=media&token=13c38e3c-3041-4a21-a854-d12251fa1662",
+      "price": "64"
+    },
+    {
+      "id": 16,
+      "name": "Guess Original Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F16.jpg?alt=media&token=4fc6f3ad-04e3-48c8-9d55-9d011258e8a4",
+      "price": "17"
+    },
+    {
+      "id": 17,
+      "name": "Little America Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F17.jpg?alt=media&token=83b77720-fdb6-403a-af00-43742ab8f3b4",
+      "price": "110"
+    },
+    {
+      "id": 18,
+      "name": "5051 Backpack Stroller",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F18.jpg?alt=media&token=c07e618f-e272-4a9e-9241-09b29afe82dc",
+      "price": "64"
+    },
+    {
+      "id": 19,
+      "name": "Adidas Originals Adicolor Classic Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F19.jpg?alt=media&token=580de663-c094-4d1a-a16e-3927df8e7361",
+      "price": "26"
+    },
+    {
+      "id": 20,
+      "name": "Heritage Backpack",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/bags%2F20.jpg?alt=media&token=ff1be670-a04a-44bf-9ac6-5fed4384dde6",
+      "price": "62"
+    }
+  ],
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Lerond 0120 1 QSP CMA Sneakers",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F1.jpg?alt=media&token=5adb6369-8f33-480f-ba23-b7b0f4641b62",
+      "price": "120"
+    },
+    {
+      "id": 2,
+      "name": "Spinnaker Men's Boat Shoes",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F2.jpg?alt=media&token=949c345a-5959-48ab-9dfd-1a3dcfaf1c00",
+      "price": "100"
+    },
+    {
+      "id": 3,
+      "name": "adidas d.o.n. issue 1",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F3.jpg?alt=media&token=bec7e729-3c2f-46c6-97f6-6dcbe3e67923",
+      "price": "96"
+    },
+    {
+      "id": 4,
+      "name": "fluidflow running shoes",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F4.jpg?alt=media&token=5e57f16b-904d-439f-be02-958183e97780",
+      "price": "64"
+    },
+    {
+      "id": 5,
+      "name": "adidas originals superstar",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F5.jpg?alt=media&token=dea0e010-6668-400a-83d7-6e658dac4fad",
+      "price": "67"
+    },
+    {
+      "id": 6,
+      "name": "adidas originals supercourt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F6.jpg?alt=media&token=b5159884-a52d-47ef-88ae-37a5905a7b12",
+      "price": "85"
+    },
+    {
+      "id": 7,
+      "name": "Alpargata Slip Ons",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F7.jpg?alt=media&token=3d13a1f1-3e29-42f3-bc34-a5d9f617ce4e",
+      "price": "65"
+    },
+    {
+      "id": 8,
+      "name": "Alpargata Slip Ons",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F8.jpg?alt=media&token=21af558c-a371-4f4a-9b75-aee244eb16ca",
+      "price": "86"
+    },
+    {
+      "id": 9,
+      "name": "Baja Slip Ons",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F9.jpg?alt=media&token=02461774-86a7-467e-8149-b1bd20f6e8e6",
+      "price": "63"
+    },
+    {
+      "id": 10,
+      "name": "Alpargata Slip Ons",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F10.jpg?alt=media&token=276baf52-791c-431c-98b6-5436d32c80db",
+      "price": "68"
+    },
+    {
+      "id": 11,
+      "name": "Carlo Sneakers",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F11.jpg?alt=media&token=64bff8ad-3a3e-4c6d-a0c3-1d4666e26798",
+      "price": "66"
+    },
+    {
+      "id": 12,
+      "name": "Alpargata Slip Ons",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F12.jpg?alt=media&token=1087350f-2aaa-4e01-bc33-f55546440991",
+      "price": "64"
+    },
+
+    {
+      "id": 13,
+      "name": "Alpargata Slip Ons",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F13.jpg?alt=media&token=274b92a8-9fab-4e40-a17a-61c6bdd1dd3d",
+      "price": "48"
+    },
+    {
+      "id": 14,
+      "name": "Alpargata Slip Ons",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F14.jpg?alt=media&token=7e2bfb5c-982f-4887-9484-ca29754046a3",
+      "price": "67"
+    },
+    {
+      "id": 15,
+      "name": "Air Max 720 Shoes",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F15.jpg?alt=media&token=7874db3c-9412-4843-8afd-6d9abfe22c32",
+      "price": "180"
+    },
+    {
+      "id": 16,
+      "name": "adidas originals nmd_r1",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F16.jpg?alt=media&token=daf07b2b-cc04-4668-92f7-2ff4b877c813",
+      "price": "142"
+    },
+    {
+      "id": 17,
+      "name": "Ethan Lace Sneakers",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F17.jpg?alt=media&token=d8b720c4-312c-4568-a57c-5fb80a3d22bb",
+      "price": "161"
+    },
+    {
+      "id": 18,
+      "name": "Solaris Chunky Sneakers",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F18.jpg?alt=media&token=9f11aa64-4a62-4983-a3ce-6188aa7aa708",
+      "price": "238"
+    },
+    {
+      "id": 19,
+      "name": "Lightweight Lace Up Sport Shoes",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F19.jpg?alt=media&token=5e2b1d63-cb5c-45c9-9850-dbd783e0cae3",
+      "price": "28"
+    },
+    {
+      "id": 20,
+      "name": "S-Serendipity Low Sneakers",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/shoes%2F20.jpg?alt=media&token=2fe8a616-a03c-41e9-a73e-c78ca08bcff8",
+      "price": "130"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 1,
+      "name": "S&H Collection - 15116067 Belt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F1.jpg?alt=media&token=846a99b4-b191-47c7-932f-39dd7b1652a3",
+      "price": "40"
+    },
+    {
+      "id": 2,
+      "name": "S&H Collection - 15116604 Belt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F2.jpg?alt=media&token=c861b2cd-f1c4-49a3-be4d-84b9410ce26e",
+      "price": "37"
+    },
+    {
+      "id": 3,
+      "name": "S&H Collection - 15116604 Belt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F3.jpg?alt=media&token=5db759b3-ea2e-4b12-94ec-af5ab1d27d0e",
+      "price": "37"
+    },
+    {
+      "id": 4,
+      "name": "Mens Reversible Cotton Necktie - Peppermint",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F4.jpg?alt=media&token=5895d5bc-dfd1-4f8c-8c66-3f6f4d28ce56",
+      "price": "12"
+    },
+    {
+      "id": 5,
+      "name": "Mens Reversible Cotton Necktie - Rock Candy",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F5.jpg?alt=media&token=c7684464-af34-40f1-ba07-bf7937ebdf5e",
+      "price": "12"
+    },
+    {
+      "id": 6,
+      "name": "Mens Reversible Cotton Necktie - Skittles",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F6.jpg?alt=media&token=adfdb7b5-08d2-4ee8-ba58-5bdc5119ab40",
+      "price": "12"
+    },
+    {
+      "id": 7,
+      "name": "Men's Reversible Cotton Necktie - Bazooka",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F7.jpg?alt=media&token=8c45e9b7-4ee4-479c-9e90-fa1a094e0b4e",
+      "price": "12"
+    },
+    {
+      "id": 8,
+      "name": "BB Snapback Script",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F8.jpg?alt=media&token=68f78d11-3b11-4440-b9ec-c2ddba750074",
+      "price": "20"
+    },
+    {
+      "id": 9,
+      "name": "adidas 5panel power cap",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F9.jpg?alt=media&token=2aa8694c-12b0-49d7-911f-f893235fe51d",
+      "price": "22"
+    },
+    {
+      "id": 10,
+      "name": "S&H Collection - 15516690 Belt",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F10.jpg?alt=media&token=03381583-f5d1-467d-a2b5-8b9927bf72a2",
+      "price": "40"
+    },
+    {
+      "id": 11,
+      "name": "Two Tone 14 Card Slots Italian Leather Bi-fold Wallet",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F11.jpg?alt=media&token=ea39c116-6105-4055-a6b1-24c86f44d275",
+      "price": "65"
+    },
+    {
+      "id": 12,
+      "name": "Leather Slim Bifold Card",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/accessories%2F12.jpg?alt=media&token=ea413750-6d8b-422b-a4c1-82da88f59f2f",
+      "price": "30"
+    }
+  ],
+  "watches": [
+    {
+      "id": 1,
+      "name": "Sentry 38 SS Watch",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/watches%2F1.jpg?alt=media&token=24f96a2a-64bd-45f3-9ff2-51711e5a7bd2",
+      "price": "140"
+    },
+    {
+      "id": 2,
+      "name": "Kensington Leather Watch",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/watches%2F2.jpg?alt=media&token=be5e1e0e-aadb-47ea-b9b3-5252463ba712",
+      "price": "50"
+    },
+    {
+      "id": 3,
+      "name": "Analog Watch Uv1508-3C-White Dial",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/watches%2F3.jpg?alt=media&token=6c87502d-e219-43b0-9db5-84c5f10b4244",
+      "price": "26"
+    },
+    {
+      "id": 4,
+      "name": "Corporal SS Watch",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/watches%2F4.jpg?alt=media&token=e35c24d3-0620-48c8-8d09-453cc6c01d31",
+      "price": "110"
+    },
+    {
+      "id": 5,
+      "name": "Analog Watch Wh3301-1C-Black Dial",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/watches%2F5.jpg?alt=media&token=91c5ecc9-f4d4-42f9-87e9-704fe5ba75cb",
+      "price": "30"
+    },
+    {
+      "id": 6,
+      "name": "Kensington Watch",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/watches%2F6.jpg?alt=media&token=44890921-5e46-4990-9bf6-9531189b2677",
+      "price": "110"
+    },
+    {
+      "id": 7,
+      "name": "Bullet Leather Watch",
+      "url": "https://firebasestorage.googleapis.com/v0/b/blizly-22554.appspot.com/o/watches%2F7.jpg?alt=media&token=c9d464aa-0938-4a0f-b684-d17356eadd25",
+      "price": "112"
+    }
+  ]
+}

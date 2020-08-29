@@ -1,0 +1,28 @@
+.show-case {
+  grid-column: 2/-2;
+  margin: 5rem 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4rem;
+  align-items: start;
+
+  .showcase-heading {
+    grid-column: 1/-1;
+    margin-bottom: -2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    a {
+      font-size: 1.2rem;
+      color: #f57224;
+      border: 2px solid #f57224;
+      padding: 8px 1rem;
+
+      &:hover {
+        background: #f57224;
+        color: white;
+      }
+    }
+  }
+}

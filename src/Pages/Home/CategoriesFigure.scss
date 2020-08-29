@@ -1,0 +1,66 @@
+.categories {
+  grid-column: 2/-2;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 200px);
+  gap: 0.5rem;
+  margin-top: 3rem;
+
+  a {
+    padding: 2rem;
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    &:hover {
+      border: 7px solid #c4c4c4;
+    }
+    .description {
+      max-width: 150px;
+      font-size: 1.1rem;
+      h2 {
+        font-size: 1.2em;
+        color: #f57224;
+      }
+      p {
+        font-size: 0.8em;
+      }
+    }
+  }
+  .clothings {
+    grid-column: 1/3;
+    grid-row: 1/-1;
+    padding: 4.2rem 2rem;
+    background-image: url("./media/figureImgs/clothing.jpg");
+    .description {
+      max-width: 150px;
+    }
+  }
+  .accessories {
+    grid-column: 3/-1;
+    grid-row: 1/2;
+    display: grid;
+    place-content: center left;
+    background-image: url("./media/figureImgs/watches.png");
+    .description {
+      max-width: 200px;
+      h2 {
+        color: orangered;
+      }
+    }
+  }
+  .shoes {
+    grid-column: 3/4;
+    grid-row: 2/-1;
+    display: grid;
+    background-image: url("./media/figureImgs/shoes.png");
+    .description {
+      max-width: 120px;
+    }
+  }
+  .bags {
+    background-image: url("./media/figureImgs/bags.png");
+    .description {
+      max-width: 120px;
+    }
+  }
+}

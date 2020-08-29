@@ -1,0 +1,47 @@
+footer {
+  background-color: white;
+  box-shadow: 0 -3px 3px -4px black;
+}
+
+.footer-content {
+  grid-column: 2/-2;
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem 0;
+  h2 {
+    font-weight: 100;
+    font-size: 1.1em;
+    line-height: 35px;
+    color: #0f136d;
+  }
+
+  .customer-care,
+  .blizly {
+    width: 25%;
+    font-size: 1rem;
+    margin-right: 4rem;
+
+    li {
+      cursor: pointer;
+      font-size: 0.9em;
+      color: #0f136d;
+      line-height: 17px;
+    }
+  }
+  .delivery,
+  .payment {
+    width: 25%;
+    .logos {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    li {
+      height: 30px;
+      margin: 5px 1rem 5px 0;
+    }
+    img {
+      width: auto;
+      height: 100%;
+    }
+  }
+}
