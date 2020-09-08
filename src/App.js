@@ -1,5 +1,5 @@
 import React from "react";
-
+import { MenuProvider } from "./ShopContext/menuContext";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
 import Home from "./Pages/Home/Home";
@@ -13,20 +13,22 @@ import Shopping from "./Pages/Shopping/Shopping";
 
 function App() {
   return (
-    <div className="app">
-      <Router>
-        <Header />
-        <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/cart" component={ShoppingCart} />
-          <Route exact path="/auth" component={Auth} />
-          <Route exact path="/register" component={Register} />
-          <Route exact path="/shopping/:category" component={Shopping} />
-        </Switch>
-        <Footer />
-        <CopyRight />
-      </Router>
-    </div>
+    <MenuProvider>
+      <div className="app">
+        <Router>
+          <Header />
+          <Switch>
+            <Route exact path="/" component={Home} />
+            <Route exact path="/cart" component={ShoppingCart} />
+            <Route exact path="/auth" component={Auth} />
+            <Route exact path="/register" component={Register} />
+            <Route exact path="/shopping/:category" component={Shopping} />
+          </Switch>
+          <Footer />
+          <CopyRight />
+        </Router>
+      </div>
+    </MenuProvider>
   );
 }
 

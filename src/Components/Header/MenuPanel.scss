@@ -1,0 +1,16 @@
+.menuPanel-nav {
+  height: auto !important;
+  width: 180px !important;
+  box-shadow: 0px 5px 10px -3px black;
+  position: fixed;
+  top: 80px;
+  right: 1rem;
+  z-index: 9999;
+  font-size: 1.2rem;
+  padding: 1rem;
+  background-color: white;
+  li {
+    margin: 0.5em;
+    color: #00052e;
+  }
+}

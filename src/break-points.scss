@@ -1,0 +1,122 @@
+@media (max-width: 850px) {
+  .search {
+    display: none !important;
+  }
+  .left-nav {
+    display: none !important;
+  }
+  .main-showcase {
+    grid-column: 1/-1 !important;
+  }
+  .hero .slider div {
+    height: 400px !important;
+  }
+}
+@media (max-width: 600px) {
+  .menu {
+    display: block !important;
+  }
+  .hero .slider div {
+    height: 350px !important;
+  }
+  .search,
+  .category-nav {
+    display: none !important;
+  }
+  .main-showcase {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .footer-content {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .customer-care,
+  .blizly,
+  .delivery,
+  .payment {
+    width: 100% !important;
+  }
+  .copy-right .copy-right-content {
+    display: block !important;
+    text-align: center !important;
+  }
+  .copy-right .social {
+    justify-content: center !important;
+  }
+  .categories {
+    grid-template-columns: 1fr !important;
+    grid-template-rows: repeat(4, 200px) !important;
+    a {
+      grid-column: 1/-1 !important;
+      grid-row: auto / auto !important;
+      background-size: contain !important;
+      background-repeat: no-repeat !important;
+      background-position-x: 80% !important;
+    }
+    .accessories {
+      background-size: cover !important;
+    }
+  }
+  .cart-items,
+  .cart-summary {
+    grid-column: 1/-1 !important;
+  }
+  .shopping-cart {
+    padding: 1rem !important;
+  }
+  .shopping-cart-content {
+    padding: 3rem 0 !important;
+  }
+  .register-content form,
+  .auth-content form {
+    grid-template-columns: 100% !important;
+    width: 100vw !important;
+  }
+  .register-content .text,
+  .auth-content .text {
+    display: block !important;
+    text-align: center !important;
+  }
+}
+@media (max-width: 400px) {
+  .hero .slider div {
+    height: 200px !important;
+  }
+  .new-arrivals {
+    padding: 1rem 0 !important;
+  }
+  .categories a {
+    padding: 1.2rem 2rem !important;
+  }
+  .categories {
+    grid-template-rows: repeat(4, 100px) !important;
+  }
+  .categories a .description {
+    font-size: 1rem !important;
+  }
+  .show-case .showcase-heading a,
+  .show-case .showcase-heading {
+    font-size: 0.7rem !important;
+  }
+  .main-showcase {
+    gap: 1rem !important;
+  }
+  .main-showcase .card {
+    height: 250px !important;
+  }
+  .copy-right .social li {
+    font-size: 8px !important;
+  }
+  .shopping-cart {
+    padding: 0rem !important;
+  }
+  .shopping-cart-content .cart-summary .row input {
+    font-size: 0.9rem !important;
+  }
+  .main-showcase .product-info {
+    font-size: 0.7rem !important;
+  }
+  .shopping-cart-content .cart-items .cart-center {
+    padding: 0 !important;
+  }
+}
